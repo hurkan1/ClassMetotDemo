@@ -8,7 +8,7 @@ namespace ClassMetotDemo
     {
         public string Name { get; set; }
         public string Surname { get; set; }
-        public int Id { get; set; }
+        public string Id { get; set; }
         public int Age { get; set; }
 
 
